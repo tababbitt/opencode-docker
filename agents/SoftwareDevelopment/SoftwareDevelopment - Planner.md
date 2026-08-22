@@ -1,5 +1,5 @@
 ---
-name: Planner
+name: SoftwareDevelopment - Planner
 description: Convert design and specifications into an executable implementation plan
 mode: primary
 permission:

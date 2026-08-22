@@ -1,5 +1,5 @@
 ---
-name: Reviewer
+name: SoftwareDevelopment - Reviewer
 description: Review software implementation
 mode: all
 # model: mistral/mistral-small-latest

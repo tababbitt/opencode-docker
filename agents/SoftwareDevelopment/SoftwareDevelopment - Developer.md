@@ -1,5 +1,5 @@
 ---
-name: Developer
+name: SoftwareDevelopment - Developer
 description: Write code and implement technical tasks
 mode: all
 # model: mistral/mistral-medium-latest

@@ -1,5 +1,5 @@
 ---
-name: Tester
+name: SoftwareDevelopment - Tester
 description: Verify code and technical implementation; verify linting and type checking results
 mode: all
 # model: mistral/mistral-medium-latest

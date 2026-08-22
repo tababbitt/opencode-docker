@@ -1,5 +1,5 @@
 ---
-name: Analyst
+name: SoftwareDevelopment - Analyst
 description: Translate user intent and proposal into a clearly defined set of specifications.
 mode: primary
 permission:

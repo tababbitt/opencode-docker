@@ -1,5 +1,5 @@
 ---
-name: Architect
+name: SoftwareDevelopment - Architect
 description: Convert proposal and specifications into a workable technical design
 mode: primary
 permission:

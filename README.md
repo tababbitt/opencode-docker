@@ -89,13 +89,17 @@ flowchart LR
 
 ### Agents
 
-- Analyst: Translate user intent and proposal into a clearly defined set of specifications including functional and non-functional requirements, constraints, and risks
-- Architect: Convert proposal and specifications into a workable technical design
-- Planner: Convert design and specifications into an executable implementation plan
-- Technical Manager: oversee project execution; chunk
-- Developer: Implement code, run commands, write unit tests, run lint/typecheck, investigate errors, and debug
-- Reviewer: Review correctness, clarity, maintainability, and requirement alignment
-- Tester: Design and execute unit, integration and end-to-end tests; validate test quality and coverage of required behavior
+- LessonPrep - Reviewer: Review lesson materials for consistency and errors
+- SoftwareDevelopment - Analyst: Translate user intent and proposal into a clearly defined set of specifications including functional and non-functional requirements, constraints, and risks
+- SoftwareDevelopment - Architect: Convert proposal and specifications into a workable technical design
+- SoftwareDevelopment - Planner: Convert design and specifications into an executable implementation plan
+- SoftwareDevelopment - Technical Manager: oversee project execution; chunk
+- SoftwareDevelopment - Developer: Implement code, run commands, write unit tests, run lint/typecheck, investigate errors, and debug
+- SoftwareDevelopment - Reviewer: Review correctness, clarity, maintainability, and requirement alignment
+- SoftwareDevelopment - Tester: Design and execute unit, integration and end-to-end tests; validate test quality and coverage of required behavior
+
+> [!NOTE]
+> Agent filenames are prefixed with the workflow name so OpenCode’s flat selector stays alphabetized by workflow first, then role.
 
 ## References
 
