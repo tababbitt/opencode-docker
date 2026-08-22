@@ -45,7 +45,7 @@ git clone ...
 cd ...
 ```
 
-3. Launch OpenCode container: `docker compose up`
+3. Launch OpenCode container: `docker compose up -d`
 
 > [!TIP]
 > To stop a detached container, run `docker compose down --remove-orphans`. Check container status by running `docker compose ps` in the same directory or `docker ps` anywhere.
