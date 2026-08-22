@@ -57,7 +57,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "options": {
         "baseURL": "https://api.genai.mil/v1/",
-        "apiKey": "STARK_vMl_uT5ExsMgDmgY6Wp-EvPiczQrmwwjgVRK-p0X1pA"
+        "apiKey": "STARK_###"
       },
       "models": {
         "gemini-3.1-pro-preview": {
