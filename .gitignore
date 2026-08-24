@@ -2,3 +2,4 @@ local/
 opencode.jsonc
 workspace/CY305/**
 opencode.jsonc
+.env
